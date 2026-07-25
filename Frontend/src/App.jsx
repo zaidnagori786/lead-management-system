@@ -6,8 +6,8 @@ import PublicLeadForm from "./pages/PublicLeadForm"
 import LeadDetails from "./pages/LeadDetails.jsx";
 import NotFound from "./pages/NotFound";
 
-import ProtectedRoute from "./components/ADminRoutes";
-import AdminRoute from "./components/ProctedRoutes";
+import ProtectedRoute from "./components/AdminRoutes.jsx";
+import AdminRoute from "./components/ProtectedRoutes.jsx";
 
 function App() {
 
