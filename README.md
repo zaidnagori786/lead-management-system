@@ -285,6 +285,4 @@ LinkedIn
 
 https://www.linkedin.com/in/zaid-nagori-a16275359
 
-GitHub
 
-https://github.com/yourusername
