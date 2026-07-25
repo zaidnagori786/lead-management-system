@@ -2,8 +2,8 @@ import { Routes, Route } from "react-router-dom";
 
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
-import PublicLeadForm from "./pages/PublicLeadForm";
-import LeadDetails from "./pages/LeadDetails";
+import PublicLeadForm from "./pages/PublicLeadForm"
+import LeadDetails from "./pages/LeadDetails.jsx";
 import NotFound from "./pages/NotFound";
 
 import ProtectedRoute from "./components/ADminRoutes";
