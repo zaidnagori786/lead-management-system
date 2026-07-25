@@ -7,7 +7,7 @@ A full-stack Lead Management System built using the MERN Stack. The application 
 ## Live Demo
 
 ### Frontend
-[https://lead-management-system-iy3v.vercel.app/dashboard](https://lead-management-system-iy3v.vercel.app/)
+[[https://lead-management-system-iy3v.vercel.app/dashboard](https://lead-management-system-iy3v.vercel.app/)](https://lead-management-system-iy3v.vercel.app/)
 
 
 ---
